@@ -10,7 +10,7 @@
 <p>My name is Ronald Assis and I'm Front-end developer. I'm studying HTML, CSS and JavaScript. 💥🚀</p>
 
 
-<br>
+
 
  <img width="35%"  align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
