@@ -1,9 +1,8 @@
 # Hi, I'm Ronald Assis
-<div>
-  [![Gmail Badge](https://img.shields.io/badge/-ronaldassis71@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ronaldassis71@gmail.com)] (mailto:ronaldassis71@gmail.com)
 
-  <a href="https://www.instagram.com/ronald_assis.s/" target="_blank"><img src="https://img.shields.io/badge/-ronald_assis.s-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div> 
+[![Gmail Badge](https://img.shields.io/badge/-ronaldassis71@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ronaldassis71@gmail.com)] (mailto:ronaldassis71@gmail.com)
+[![Instagram](https://img.shields.io/badge/-ronald_assis.s-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ronald_assis.s/)
+  
 
 ### Hi there 👋
 
@@ -16,7 +15,6 @@
 - 📫 How to reach me: ronaldassis71@gmail.com
 - ⚡ Fun fact: I like build blog pages with [JavaScript](https://github.com/topics/javascript), [CSS](https://github.com/topics/css) and [HTML](https://github.com/topics/html)
 
-<br>
 <!--
 
 
