@@ -1,6 +1,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-ronaldassis71@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ronaldassis71@gmail.com)](mailto:ronaldassis71@gmail.com)
 
-
+##
 ### Hi there 👋
 
 <p>My name is Ronald Assis and I'm Front-end developer. I'm studying HTML, CSS and JavaScript. 💥🚀</p>
