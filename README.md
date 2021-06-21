@@ -12,7 +12,7 @@
 
 <br>
 
- <img width="55%" height="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+ <img width="35%" height="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: ronaldassis71@gmail.com
@@ -37,10 +37,12 @@ Here are some ideas to get you started:
 
 
 
+&nbsp;
+
 <div>
   <a href="https://github.com/ronald-assis">
-  <img height="120em" margin-right="5px" src="https://github-readme-stats.vercel.app/api?username=ronald-assis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-assis&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="140em" margin-right="5px" src="https://github-readme-stats.vercel.app/api?username=ronald-assis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-assis&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
