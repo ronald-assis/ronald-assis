@@ -3,6 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-ronaldassis71@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ronaldassis71@gmail.com)](mailto:ronaldassis71@gmail.com)
 [![Instagram](https://img.shields.io/badge/-ronald_assis.s-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ronald_assis.s/)
 
+<a href="https://www.instagram.com/ronald_assis.s/" target="_blank"><img src="https://img.shields.io/badge/-ronald_assis.s-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 ### Hi there 👋
 
 <p>I'm Front-end developer. I'm studying HTML, CSS and JavaScript. 💥🚀</p>
