@@ -12,10 +12,11 @@
 
 <br>
 
- <img width="35%" height="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+ <img width="35%"  align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: ronaldassis71@gmail.com
+- 🚀 I'm looking for career opportunities Front-end
 - ⚡ Fun fact: I like build blog pages with [JavaScript](https://github.com/topics/javascript), [CSS](https://github.com/topics/css) and [HTML](https://github.com/topics/html)
 
 <!--
