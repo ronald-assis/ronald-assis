@@ -1,7 +1,7 @@
 # Ronald Assis
 
 [![Gmail Badge](https://img.shields.io/badge/-ronaldassis71@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ronaldassis71@gmail.com)](mailto:ronaldassis71@gmail.com)
-[![Instagram](https://img.shields.io/badge/-ronald_assis.s-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ronald_assis.s/)
+[![Instagram](https://img.shields.io/badge/-ronald_assis.s-c13584?style=flat&labelColor=#e4405f&logo=instagram&logoColor=white)](https://www.instagram.com/ronald_assis.s/)
 
 &nbsp;
 
