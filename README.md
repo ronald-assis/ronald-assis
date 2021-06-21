@@ -1,9 +1,10 @@
 # Hi, I'm Ronald Assis
+<div>
+  [![Gmail Badge](https://img.shields.io/badge/-ronaldassis71@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ronaldassis71@gmail.com)] (mailto:ronaldassis71@gmail.com)
 
-[![Gmail Badge](https://img.shields.io/badge/-ronaldassis71@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ronaldassis71@gmail.com)](mailto:ronaldassis71@gmail.com)
-[![Instagram](https://img.shields.io/badge/-ronald_assis.s-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ronald_assis.s/)
+  <a href="https://www.instagram.com/ronald_assis.s/" target="_blank"><img src="https://img.shields.io/badge/-ronald_assis.s-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div> 
 
-<a href="https://www.instagram.com/ronald_assis.s/" target="_blank"><img src="https://img.shields.io/badge/-ronald_assis.s-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 ### Hi there 👋
 
 <p>I'm Front-end developer. I'm studying HTML, CSS and JavaScript. 💥🚀</p>
@@ -14,6 +15,8 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: ronaldassis71@gmail.com
 - ⚡ Fun fact: I like build blog pages with [JavaScript](https://github.com/topics/javascript), [CSS](https://github.com/topics/css) and [HTML](https://github.com/topics/html)
+
+<br>
 <!--
 
 
@@ -35,8 +38,8 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/ronald-assis">
-  <img height="140em" margin-right="5px" src="https://github-readme-stats.vercel.app/api?username=ronald-assis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-assis&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="120em" margin-right="5px" src="https://github-readme-stats.vercel.app/api?username=ronald-assis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronald-assis&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
