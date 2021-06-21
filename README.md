@@ -1,15 +1,19 @@
 # Hi, I'm Ronald Assis
 
-[![Gmail Badge](https://img.shields.io/badge/-ronaldassis71@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ronaldassis71@gmail.com)] (mailto:ronaldassis71@gmail.com)
-[![Instagram](https://img.shields.io/badge/-ronald_assis.s-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ronald_assis.s/)
+[![Gmail Badge](https://img.shields.io/badge/-ronaldassis71@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ronaldassis71@gmail.com)] 
+[![Instagram](https://img.shields.io/badge/-ronald_assis.s-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ronald_assis.s/)]
   
+
+&nbsp;
 
 ### Hi there 👋
 
 <p>I'm Front-end developer. I'm studying HTML, CSS and JavaScript. 💥🚀</p>
 
- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+<br>
+
+ <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: ronaldassis71@gmail.com
