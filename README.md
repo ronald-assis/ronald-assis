@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-<p>My name is Ronald and I'm Front-end developer. I'm studying HTML, CSS and JavaScript. 💥🚀</p>
+<p>My name is Ronald Assis and I'm Front-end developer. I'm studying HTML, CSS and JavaScript. 💥🚀</p>
 
 
 <br>
