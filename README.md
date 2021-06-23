@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning Web Developments 
 - 📫 How to reach me: ronaldassis71@gmail.com
 - 🚀 I'm looking for career opportunities at the Front-end
-- ⚡ Fun fact: I like build blog pages with [JavaScript](https://github.com/topics/javascript), [CSS](https://github.com/topics/css) and [HTML](https://github.com/topics/html)
+- ⚡ Fun fact: I like to play with [CSS](https://github.com/topics/css)
 
 <!--
 
