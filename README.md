@@ -58,5 +58,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Ronald-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ronald-Lilux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Ronald-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Ronald-Terminal" height="30" width="40" src="https://drive.google.com/file/d/1RYwqC8TS3pseyBT9hZZanYFFHEeQCxEs/view">
+  <img align="center" alt="Ronald-Terminal" height="30" width="40" src="https://raw.drive.google.com/file/d/1RYwqC8TS3pseyBT9hZZanYFFHEeQCxEs/view">
 </div>
