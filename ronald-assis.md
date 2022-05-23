@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-<p>My name is Ronald Assis and I'm Front-end developer. I'm studying HTML, CSS and JavaScript. 💥🚀</p>
+<p>My name is Ronald Assis and I'm a web development student at Trybe, a programming school that teaches programming, learning and working! The goal is to be a Dev Jr Full Stack, but is already ready for Front-End. I'm studying Back-End. 💥🚀</p>
 
 
 
@@ -16,6 +16,8 @@
  <img width="35%"  align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning Web Developments 
+- 📜 My fron-end development [certifficate](https://www.credential.net/07191aad-4266-4215-bead-194f9bfcf07d#gs.1458y0)
+- 📜 certified of Fundamentals of web [development](https://www.credential.net/26c954b7-7f62-44f2-9a17-e75fbebed90e#gs.145djf)
 - 📫 How to reach me: ronaldassis71@gmail.com
 - 🚀 I'm looking for career opportunities at the Front-end
 - ⚡ Fun fact: I like to play with [CSS](https://github.com/topics/css)
