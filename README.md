@@ -2,7 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ronaldassis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronald-assis/)](https://www.linkedin.com/in/ronald-assis/)
 [![Gmail Badge](https://img.shields.io/badge/-ronaldassis71@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ronaldassis71@gmail.com)](mailto:ronaldassis71@gmail.com)
-[![Instagram](https://img.shields.io/badge/-ronald_assis.s-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ronald_assis.s/)](https://www.instagram.com/ronald_assis.s/)
 
 &nbsp;
 
